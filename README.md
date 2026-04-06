@@ -1,4 +1,4 @@
-# Himanshu Sanjay Patil | Global Tech Champion
+# Himanshu Sanjay Patil 
 
 ### Building systems that do not just work—they survive under fire.
 
