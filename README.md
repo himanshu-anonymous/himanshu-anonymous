@@ -5,7 +5,7 @@
 ---
 
 ## The Sapphire Manifesto
-I am an 18-year-old Computer Science Engineer and an 8-time Global Hackathon Winner (GTC 2023-2025). My focus is at the intersection of High-Performance Backend Architecture, Neuromorphic Computing, and Digital Public Infrastructure (DPI). 
+I am an 18-year-old Computer Science Engineer and Multiple National/Inter-National Hackathon Winner . My focus is at the intersection of High-Performance Backend Architecture, Neuromorphic Computing, and Digital Public Infrastructure (DPI). 
 
 I build under the banner of Sapphire Corp—creating tools that bridge the gap between human intent and machine execution.
 
