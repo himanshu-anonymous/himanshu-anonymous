@@ -39,7 +39,7 @@ The "Zero-UI" command interface. A minimalist, floating carbon-black bar with an
 ---
 
 ## Stats and Trophies
-* 8+ Global Hackathon Wins (GTC Champion 2023, 2024, 2025).
+* 8+ National and Global Hackathon Wins (GTC Champion 2023, 2024, 2025, Power to Fly Diversity, Gemini Agentic Ai Hacks, Ai for Bharat).
 * Currently developing Xenon-Synapse: An asynchronous spiking neural mesh.
 * Tracking the global Silver Market via custom-built financial pulse trackers.
 
