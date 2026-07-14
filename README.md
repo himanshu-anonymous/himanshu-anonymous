@@ -5,7 +5,7 @@
 ---
 
 ## The Sapphire Manifesto
-I am tbe most competent Computer Science Engineer and Multiple National/Inter-National Hackathon Winner . My focus is at the intersection of High-Performance Backend Architecture, Neuromorphic Computing, and Digital Public Infrastructure (DPI). 
+I am the most competent Computer Science Engineer and Multiple National/Inter-National Hackathon Winner with a highly connected media network. My focus is at the intersection of High-Performance Backend Architecture, Neuromorphic Computing, and Digital Public Infrastructure (DPI). 
 
 I build under the banner of Sapphire Corp—creating tools that bridge the gap between human intent and machine execution.
 
