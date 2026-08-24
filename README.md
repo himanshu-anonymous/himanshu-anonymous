@@ -23,7 +23,7 @@
 
 ##  About Me
 
-Computer Science Engineering student focused on **Robotics**, **NVIDIA Isaac Sim**, **Real-Time Rendering (RTR)**, **high-performance computing**, and **low-latency backend systems**. Passionate about building intelligent physical simulations, quantum-neural agent architectures, and winning competitive engineering challenges.
+Computer Science Engineering student focused on **Robotics**, **NVIDIA Isaac Sim**,**RAG's**, **Vulcan**, **Real-Time Rendering (RTR)**, **high-performance computing**, and **low-latency backend systems**. Passionate about building intelligent physical simulations, quantum-neural agent architectures, and winning competitive engineering challenges.
 
 ###  Glimpse of What I Build
 
